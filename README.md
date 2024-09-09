@@ -56,13 +56,12 @@ If you use FlooNoC in your research, please cite the following paper:
 <p>
 
 ```
-@misc{fischer2023floonoc,
-      title={FlooNoC: A Multi-Tbps Wide NoC for Heterogeneous AXI4 Traffic},
-      author={Tim Fischer and Michael Rogenmoser and Matheus Cavalcante and Frank K. Gürkaynak and Luca Benini},
-      year={2023},
-      eprint={2305.08562},
-      archivePrefix={arXiv},
-      primaryClass={cs.AR}
+@article{fischer2023floonoc,
+  title={FlooNoC: A Multi-Tbps Wide NoC for Heterogeneous AXI4 Traffic},
+  author={Fischer, Tim and Rogenmoser, Michael and Cavalcante, Matheus and G{\"u}rkaynak, Frank K and Benini, Luca},
+  journal={IEEE Design \& Test},
+  year={2023},
+  publisher={IEEE}
 }
 ```
 
