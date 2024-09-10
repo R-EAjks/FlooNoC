@@ -21,7 +21,7 @@ clean: clean-sim clean-spyglass clean-jobs clean-sources
 ############
 
 BENDER     	?= bender
-VSIM       	?= questa-2023.4 vsim
+VSIM       	?= vsim
 SPYGLASS   	?= sg_shell
 VERIBLE_FMT	?= verible-verilog-format
 
